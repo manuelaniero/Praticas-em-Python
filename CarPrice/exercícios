@@ -1,0 +1,21 @@
+Verifique quais variáveis numéricas possuem maior correlação com o preço dos carros. Quais insights podem ser extraídos?
+
+Crie um boxplot para comparar os preços dos carros por tipo de combustível. O tipo de combustível impacta diretamente no preço?
+
+Utilize um gráfico de dispersão para analisar a relação entre "horsepower" e "price". Há uma correlação linear?
+
+Investigue se a variável "drivewheel" tem influência no peso do carro ("curbweight"). Qual tipo de tração tende a ter carros mais pesados?
+
+Agrupe os dados por "carCompany" e compare a média do preço dos carros de cada fabricante. Qual empresa tem o maior preço médio?
+
+Analise se existe uma relação entre "compressionratio" e "horsepower". Motores com maior taxa de compressão tendem a ser mais potentes?
+
+Crie um gráfico de dispersão entre "citympg" e "highwaympg". Há diferença significativa no consumo de combustível entre cidade e estrada?
+
+Analise a distribuição de carros com base no tipo de motor ("enginetype"). Algum tipo de motor se destaca em relação ao preço?
+
+Investigue se a variável "wheelbase" tem impacto significativo no preço dos carros. Carros maiores tendem a ser mais caros?
+
+Analise a relação entre "carlength", "carwidth" e "carheight" para entender quais dimensões impactam mais no preço dos veículos.
+
+Quandom falamos de consumo, variável MPG, quais são os fatores que mais impactam o consumo? Traga gráficos para demonstrar essa relação.

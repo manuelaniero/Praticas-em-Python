@@ -1,0 +1,27 @@
+Parte 1: Compreensão e Limpeza dos Dados 
+1. Carregue o conjunto de dados e exiba as 5 primeiras linhas.
+2. Verifique a presença de valores ausentes e liste as colunas que possuem valores nulos.
+3. Quantos jogadores distintos existem no conjunto de dados?
+4. Quantas rodadas foram registradas no dataset?
+5. Remova as colunas que possuem mais de 50% de valores ausentes e exiba a nova estrutura do dataframe.
+
+Parte 2: Estatísticas Descritivas 
+6. Qual é a média de pontos dos jogadores por rodada?
+7. Qual jogador teve a maior pontuação em uma única rodada?
+8. Liste os 5 jogadores com o maior número de jogos disputados.
+9. Qual é a distribuição de jogadores por posição no dataset?
+10. Qual clube teve a maior soma de pontos acumulados no campeonato?
+  
+Parte 3: Análise Gráfica e Visualização de Dados 
+11. Crie um histograma da distribuição dos pontos dos jogadores.
+12. Faça um boxplot da distribuição dos pontos por posição.
+13. Gere um gráfico de barras mostrando a média de pontos por clube.
+14. Exiba a tendência de pontuação ao longo das rodadas utilizando um gráfico de linha.
+15. Crie um heatmap para visualizar a correlação entre as estatísticas numéricas (ex: finalizações, desarmes, gols, assistências, etc.).
+  
+Parte 4: Insights e Tendências 
+16. Existe alguma correlação significativa entre a posição do jogador e sua média de pontuação?
+17. Qual a relação entre número de finalizações e quantidade de gols marcados?
+18. Quais clubes possuem os jogadores com maior média de cartões amarelos por jogo?
+19. Algum time apresentou uma queda brusca de pontuação ao longo das rodadas? Se sim, qual?
+20. Com base na análise realizada, sugira 3 insights relevantes para um treinador que deseja otimizar a performance do seu time.
